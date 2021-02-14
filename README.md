@@ -1,7 +1,6 @@
 # cloud-computing
 
-
-1. ceph 
+ceph
 
 
 
